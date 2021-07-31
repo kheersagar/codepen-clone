@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kheersagar/codepen-clone/static/css/main.9ae08d42.chunk.css",
+    "main.js": "/kheersagar/codepen-clone/static/js/main.f2f8ca77.chunk.js",
+    "main.js.map": "/kheersagar/codepen-clone/static/js/main.f2f8ca77.chunk.js.map",
+    "runtime-main.js": "/kheersagar/codepen-clone/static/js/runtime-main.424c4cb5.js",
+    "runtime-main.js.map": "/kheersagar/codepen-clone/static/js/runtime-main.424c4cb5.js.map",
+    "static/css/2.53d5d146.chunk.css": "/kheersagar/codepen-clone/static/css/2.53d5d146.chunk.css",
+    "static/js/2.47134842.chunk.js": "/kheersagar/codepen-clone/static/js/2.47134842.chunk.js",
+    "static/js/2.47134842.chunk.js.map": "/kheersagar/codepen-clone/static/js/2.47134842.chunk.js.map",
+    "index.html": "/kheersagar/codepen-clone/index.html",
+    "static/css/2.53d5d146.chunk.css.map": "/kheersagar/codepen-clone/static/css/2.53d5d146.chunk.css.map",
+    "static/css/main.9ae08d42.chunk.css.map": "/kheersagar/codepen-clone/static/css/main.9ae08d42.chunk.css.map",
+    "static/js/2.47134842.chunk.js.LICENSE.txt": "/kheersagar/codepen-clone/static/js/2.47134842.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.424c4cb5.js",
+    "static/css/2.53d5d146.chunk.css",
+    "static/js/2.47134842.chunk.js",
+    "static/css/main.9ae08d42.chunk.css",
+    "static/js/main.f2f8ca77.chunk.js"
+  ]
+}

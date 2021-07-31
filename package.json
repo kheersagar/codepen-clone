@@ -2,7 +2,7 @@
   "name": "codepen-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kheersagar/codepen-clone",
+  "homepage": "https://kheersagar.github.io/codepen-clone",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "@testing-library/jest-dom": "^5.14.1",

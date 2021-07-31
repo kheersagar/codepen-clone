@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+.App{
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 0;
+  padding: 1rem 1rem 0 1rem;
+  height: 50vh;
+}
+
+.iframe_wrapper{
+  padding: 1rem;
+  height: 50vh;
+}
+.container_main{
+  background-color: #dcdcdc;
+}
+@media(max-width:767px){
+  .App{
+    flex-direction: column;
+    height: auto;
+  }
+}
